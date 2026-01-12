@@ -11,7 +11,7 @@ class Fibonachi {
         System.out.println();
     }
 
-    public void fibonachitillnumber(int n) {
+    public void fibonachiTillMaxNumber(int n) {
         int a = 0, b = 1;
         System.out.print("Fibonacci sequence: ");
         while (a < n) {
