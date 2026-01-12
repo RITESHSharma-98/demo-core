@@ -4,6 +4,7 @@ class Hello {
         Fibonachi fi = new Fibonachi();
         System.out.println("Fibonacci sequence upto 10 numbers:");
         fi.fibonachi(10);
+        System.out.println("*********And*********");
         System.out.println("Fibonacci sequence until number 100:");
         fi.fibonachiTillMaxNumber(100);
         star.printStar(5);
